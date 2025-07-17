@@ -1,1 +1,2 @@
-# portfolio
+PORTFOLIO
+Tailwind CSS was used to create this portfolio website, which is a neat, responsive, and eye-catching personal website. With a contact form, a comprehensive About Me section, a modern hero section, and project highlights, it presents the developer's identity, abilities, and work in an organized manner. The design maintains professionalism by using a consistent color scheme, card components for project presentation, and Tailwind's utility-first classes for streamlined styling. It serves as an online resume and portfolio to reflect creativity, technical ability, and personality — ideal for sharing with recruiters, collaborators, or showcasingforms like GitHub or LinkedIn.
